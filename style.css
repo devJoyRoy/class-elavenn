@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.hader{
+  width: 800px;
+  border: 1px black solid;
+  margin: auto;
+  margin-top: 100px;
+  position: relative;
+}
+.div1{
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  display: inline-block;
+}
+.Div2{
+  width: 100px;
+  height: 100px;
+  background: chartreuse;
+  display: inline-block;
+  position:absolute; 
+  top:0px;
+  left: 100px;
+  
+}
+.Div3{
+  width: 100px;
+  height: 100px;
+  background: darkgreen;
+  display: inline-block;
+  position: fixed;
+  top: 1px;
+}
